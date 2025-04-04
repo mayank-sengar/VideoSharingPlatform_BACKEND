@@ -29,7 +29,7 @@ This is the backend for a video-sharing platform built using Node.js, Express, a
 
    ```bash
    git clone <repository-url>
-   cd chai-backend
+   cd backend
    ```
 
 2. Install dependencies:
